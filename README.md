@@ -1,1 +1,1 @@
-# sample_node_demo
+# freshers_sample_node_demo
